@@ -39,5 +39,6 @@ public class Program3 {
         p.evenorodd(n);
         p.EvenorOdd(n);
         p.even_or_odd(n);
+        sc.close();
     }
 }

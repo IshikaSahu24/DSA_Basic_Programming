@@ -38,5 +38,6 @@ public class Program4 {
         Program4 p = new Program4();
         System.out.println("Factorial of " + n + " (iterative): " + p.factorial(n));
         System.out.println("Factorial of " + n + " (recursive): " + p.factorialRecursive(n));
+        sc.close();
     }
 }
